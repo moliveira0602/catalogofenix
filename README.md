@@ -1,20 +1,142 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📘 Catálogo Digital Fênix
 
-# Run and deploy your AI Studio app
+Catálogo digital interativo desenvolvido para a **Fênix Portas e Janelas**, com foco em apresentação profissional, valorização dos produtos e conversão comercial.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/4ec9b9de-da09-4412-a7d7-0bfec941c178
+## 🚀 Sobre o projeto
 
-## Run Locally
+Este projeto foi criado para substituir catálogos tradicionais por uma experiência digital moderna, permitindo:
 
-**Prerequisites:**  Node.js
+* 📱 Visualização em qualquer dispositivo
+* 🖨️ Impressão fiel (layout A4)
+* 💬 Contato rápido via WhatsApp
+* 🎯 Apresentação mais profissional e persuasiva
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Objetivo
+
+Transformar o catálogo da Fênix em uma ferramenta de vendas, aumentando:
+
+* Percepção de valor dos produtos
+* Facilidade de apresentação para clientes
+* Taxa de conversão comercial
+
+---
+
+## 🧩 Estrutura do catálogo
+
+O catálogo é dividido em páginas (folders), cada uma com foco específico:
+
+### 📄 Linha Vidro Incolor
+
+* Mais luminosidade
+* Ambientes claros e modernos
+
+### 📄 Linha Vidro Reflex
+
+* Privacidade com sofisticação
+* Estética premium
+
+### 📄 Linha Completa
+
+* Todos os modelos disponíveis
+* Tamanhos padrão
+
+### 📄 Linha Lux
+
+* Destaque arquitetônico
+* Produto premium
+
+---
+
+## 🎨 Identidade Visual
+
+O projeto segue a identidade da marca Fênix:
+
+* 🔴 Vermelho: `#E90D2A` (destaques e CTAs)
+* 🔵 Azul: `#132C6C` (estrutura e títulos)
+* ⚪ Branco: `#FFFFFF` (fundo e respiro visual)
+
+---
+
+## ✨ Funcionalidades
+
+* 📲 Botão flutuante de WhatsApp
+* 🖨️ Botão de impressão do catálogo
+* 📐 Layout otimizado para A4
+* 📱 Design responsivo
+* 🎯 Foco em conversão visual
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 📦 Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/moliveira0602/catalogofenix.git
+```
+
+2. Abra o projeto:
+
+```bash
+cd catalogofenix
+```
+
+3. Execute:
+
+* Basta abrir o arquivo `index.html` no navegador
+
+---
+
+## 🌐 Publicação
+
+Você pode publicar facilmente usando:
+
+* GitHub Pages
+* Vercel
+* Netlify
+
+---
+
+## 💡 Próximos passos
+
+* Integração com formulário de orçamento
+* Versão mobile otimizada (app-like)
+* Análise de acesso (analytics)
+* Integração com CRM
+
+---
+
+## 📞 Contato
+
+Para mais informações ou parcerias:
+
+👉 Fênix Portas e Janelas
+👉 Representante comercial
+
+---
+
+## ⭐ Contribuição
+
+Sinta-se à vontade para contribuir com melhorias no projeto.
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso privado/comercial da Fênix.
+
+---
+
+**Desenvolvido para elevar o padrão de apresentação e vendas da Fênix 🚀**
