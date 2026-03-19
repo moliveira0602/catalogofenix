@@ -78,13 +78,13 @@ const Folder1 = () => (
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 mb-12 flex-1">
         <div className="flex flex-col gap-6">
           <div className="flex-1 min-h-[280px] md:min-h-0 bg-gray-50 rounded-2xl overflow-hidden relative shadow-xl border-2 border-gray-100 hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <img src="/porta-liso/Gemini_Generated_Image_u3jb3nu3jb3nu3jb.png" alt="Porta com Vidro Liso" className="w-full h-full object-cover" />
+            <img src="/porta-liso/Gemini_Generated_Image_xjq8tzxjq8tzxjq8.png" alt="Porta com Vidro Liso" className="w-full h-full object-cover" />
           </div>
           <h3 className="text-center text-[#132C6C] font-bold text-xl tracking-wide">Com Vidro Liso</h3>
         </div>
         <div className="flex flex-col gap-6">
           <div className="flex-1 min-h-[280px] md:min-h-0 bg-gray-50 rounded-2xl overflow-hidden relative shadow-xl border-2 border-gray-100 hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <img src="/porta-liso/Gemini_Generated_Image_tehjg2tehjg2tehj.png" alt="Porta com Vidro Liso 2" className="w-full h-full object-cover" />
+            <img src="/porta-liso/Gemini_Generated_Image_gp66qxgp66qxgp66.png" alt="Porta com Vidro Liso 2" className="w-full h-full object-cover" />
           </div>
           <h3 className="text-center text-[#132C6C] font-bold text-xl tracking-wide">Design Elegante</h3>
         </div>
@@ -134,19 +134,19 @@ const Folder2 = () => (
           <img src="/porta-reflex/Gemini_Generated_Image_nvnj1znvnj1znvnj.png" alt="Vidro Reflex 2" className="w-full h-full object-cover" />
         </div>
         <div className="rounded-2xl overflow-hidden shadow-xl relative border-2 border-gray-100 min-h-[180px] md:min-h-0 hover:shadow-2xl transition-all duration-300 hover:scale-105">
-          <img src="/porta-reflex/Gemini_Generated_Image_owycsnowycsnowyc.png" alt="Vidro Reflex 3" className="w-full h-full object-cover" />
+          <img src="/porta-reflex/Gemini_Generated_Image_se2vz4se2vz4se2v.png" alt="Vidro Reflex 3" className="w-full h-full object-cover" />
         </div>
         <div className="rounded-2xl overflow-hidden shadow-xl relative border-2 border-gray-100 min-h-[180px] md:min-h-0 hover:shadow-2xl transition-all duration-300 hover:scale-105">
           <img src="/porta-reflex/Gemini_Generated_Image_4ty29k4ty29k4ty2.png" alt="Vidro Reflex 4" className="w-full h-full object-cover" />
         </div>
         <div className="rounded-2xl overflow-hidden shadow-xl relative border-2 border-gray-100 min-h-[180px] md:min-h-0 hover:shadow-2xl transition-all duration-300 hover:scale-105">
-          <img src="/porta-reflex/Gemini_Generated_Image_v6iyplv6iyplv6iy.png" alt="Vidro Reflex 5" className="w-full h-full object-cover" />
+          <img src="/porta-reflex/Gemini_Generated_Image_fwynhifwynhifwyn.png" alt="Vidro Reflex 5" className="w-full h-full object-cover" />
         </div>
         <div className="rounded-2xl overflow-hidden shadow-xl relative border-2 border-gray-100 min-h-[180px] md:min-h-0 hover:shadow-2xl transition-all duration-300 hover:scale-105">
           <img src="/porta-reflex/Gemini_Generated_Image_8ywt228ywt228ywt.png" alt="Vidro Reflex 6" className="w-full h-full object-cover" />
         </div>
         <div className="rounded-2xl overflow-hidden shadow-xl relative border-2 border-gray-100 min-h-[180px] md:min-h-0 hover:shadow-2xl transition-all duration-300 hover:scale-105">
-          <img src="/porta-reflex/Gemini_Generated_Image_8wj1148wj1148wj1.png" alt="Vidro Reflex 7" className="w-full h-full object-cover" />
+          <img src="/porta-reflex/Gemini_Generated_Image_7hngze7hngze7hng.png" alt="Vidro Reflex 7" className="w-full h-full object-cover" />
         </div>
       </div>
 
@@ -196,16 +196,16 @@ const Folder3 = () => {
       
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 md:gap-8 mb-10 flex-1">
         {[
-          { src: '/porta-liso/Gemini_Generated_Image_u3jb3nu3jb3nu3jb.png', name: 'Porta de Giro Palito Lux Alumínio Branco Vidro Liso', id: 'Liso 1' },
-          { src: '/porta-liso/Gemini_Generated_Image_tehjg2tehjg2tehj.png', name: 'Porta de Giro Lux Alumínio Branco Vidro Liso', id: 'Liso 2' },
+          { src: '/porta-liso/Gemini_Generated_Image_xjq8tzxjq8tzxjq8.png', name: 'Porta de Giro Palito Lux Alumínio Branco Vidro Liso', id: 'Liso 1' },
+          { src: '/porta-liso/Gemini_Generated_Image_gp66qxgp66qxgp66.png', name: 'Porta de Giro Lux Alumínio Branco Vidro Liso', id: 'Liso 2' },
           { src: '/porta-liso/Gemini_Generated_Image_35mjgy35mjgy35mj.png', name: 'Porta de Giro Lambri Bandeira Alumínio Branco Vidro Liso', id: 'Liso 3' },
           { src: '/porta-reflex/Gemini_Generated_Image_ivv6jjivv6jjivv6.png', name: 'Porta de Giro Lambri Bandeira Alumínio Branco Vidro Reflex', id: 'Reflex 1' },
           { src: '/porta-reflex/Gemini_Generated_Image_nvnj1znvnj1znvnj.png', name: 'Porta de Giro Palito Lux Alumínio Branco Vidro Reflex', id: 'Reflex 2' },
-          { src: '/porta-reflex/Gemini_Generated_Image_owycsnowycsnowyc.png', name: 'Porta de Giro Lux Alumínio Branco Vidro Reflex', id: 'Reflex 3' },
+          { src: '/porta-reflex/Gemini_Generated_Image_7hngze7hngze7hng.png', name: 'Porta de Giro Lux Alumínio Branco Vidro Reflex', id: 'Reflex 3' },
           { src: '/porta-reflex/Gemini_Generated_Image_4ty29k4ty29k4ty2.png', name: 'Porta de Giro Postigo Alumínio Branco Vidro Reflex', id: 'Reflex 4' },
-          { src: '/porta-reflex/Gemini_Generated_Image_v6iyplv6iyplv6iy.png', name: 'Porta de Giro Duplo Alumínio Branco Vidro Reflex', id: 'Reflex 5' },
+          { src: '/porta-reflex/Gemini_Generated_Image_se2vz4se2vz4se2v.png', name: 'Porta de Giro Duplo Alumínio Branco Vidro Reflex', id: 'Reflex 5' },
           { src: '/porta-reflex/Gemini_Generated_Image_8ywt228ywt228ywt.png', name: 'Porta de Giro Bandeira Alumínio Branco Vidro Reflex', id: 'Reflex 6' },
-          { src: '/porta-reflex/Gemini_Generated_Image_8wj1148wj1148wj1.png', name: 'Janela de Correr 2 Folhas Alumínio Branco Vidro Reflex', id: 'Reflex 7' },
+          { src: '/porta-reflex/Gemini_Generated_Image_fwynhifwynhifwyn.png', name: 'Janela de Correr 2 Folhas Alumínio Branco Vidro Reflex', id: 'Reflex 7' },
         ].map((item, i) => (
           <div key={i} className="flex flex-col group" title={item.name}>
             <div 
@@ -283,7 +283,7 @@ const Folder3 = () => {
 const Folder4 = () => (
   <div className="folder-page flex flex-col bg-white relative">
     <div className="absolute inset-0 z-0">
-      <img src="/porta-lux/Gemini_Generated_Image_w8kzk6w8kzk6w8kz.png" alt="Casa Moderna" className="w-full h-full object-cover object-center" />
+      <img src="/porta-lux/Gemini_Generated_Image_14we3314we3314we.png" alt="Casa Moderna" className="w-full h-full object-cover object-center" />
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
     </div>
     
@@ -403,9 +403,9 @@ const ContactPage = () => (
         
         <a 
           href="mailto:comercial@fenixaluminio.com.br"
-          className="w-full bg-[#132C6C] text-white px-8 py-5 rounded-2xl font-bold uppercase tracking-widest shadow-xl flex items-center justify-center gap-4 text-lg hover:bg-blue-900 transition-colors hover:scale-105 transform duration-300"
+          className="w-full bg-[#132C6C] text-white px-6 py-4 rounded-xl font-bold uppercase tracking-widest shadow-lg flex items-center justify-center gap-3 text-base hover:bg-blue-900 transition-colors hover:scale-105 transform duration-300"
         >
-          <Mail size={28} />
+          <Mail size={24} />
           comercial@fenixaluminio.com.br
         </a>
       </div>
